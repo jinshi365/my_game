@@ -38,6 +38,7 @@ class Ship:
         #     self.rect.centery -= 1
         # if self.moving_down:
         #     self.rect.centery += 1
+
         self.rect.centerx = self.center1
         self.rect.centery = self.center2
 
